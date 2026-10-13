@@ -1,0 +1,2 @@
+# mini-notes
+Random experiments
